@@ -4,7 +4,7 @@ Simple app for learn Artificial intelligence
 #### The language of this program is Persian.
 
 ## Content of the program
-* **game Missionaries and Cannibals**
+* **Game Missionaries and Cannibals**
 * **Hanoi Tower**
 * **DFS**
 * **BFS**
